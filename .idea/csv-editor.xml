@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\CSV_file.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2020_12_02_17_19_39\Fix.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2020_12_02_17_19_39\NMEA.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2020_12_02_17_19_39\Nav.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2020_12_02_17_19_39\Raw.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\Accel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\Agc.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\Fix.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\Gyro.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\Mag.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\NMEA.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\Nav.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\OrientationDeg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\Raw.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\Status.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\UncalAccel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\UncalGyro.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gnssutils\data\sample\gnss_log_2024_04_13_19_53_33\UncalMag.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
